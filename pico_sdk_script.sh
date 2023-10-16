@@ -5,7 +5,7 @@ set -e
 # Number of cores when running make
 JNUM=4
 # Default installation directory
-DIR_INSTALL="$HOME/pico/"
+DIR_INSTALL="$HOME/software/pico"
 # Dependencies
 # Nota: Todo esto sacado de getting-started-with-pico 
 GIT_DEPS="git"
